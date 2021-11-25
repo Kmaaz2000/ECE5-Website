@@ -29,7 +29,7 @@ body {
     -10deg,
     #252d48 10%,
     #006400 50%,
-    #27323d 50%
+    #27323d 10%
   );
 }
 
@@ -105,9 +105,9 @@ p2 {
   margin-top: 10px;
   width: 100%;
   background-color: rgb(
-    255,
-    255,
-    255
+    0,
+    140,
+    0
   ); /*you can change color by changing the HEX code*/
 }
 
